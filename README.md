@@ -97,4 +97,114 @@ SmartFarmIoTForDuplicated/
 
 ---
 
+## Git Log จาก Repository ต้นฉบับ
+
+<details>
+<summary>คลิกเพื่อดู commit history ทั้งหมด (85 commits)</summary>
+
+```
+add0eb9 OTA reduce gain
+f4ecdb8 Merge pull request #18 from natpakanchamp/testOTA
+6752037 this is final versiongit add .(hope to be)
+ef11429 last
+1e0a043 changed reason
+f52784d Merge pull request #17 from natpakanchamp/testOTA
+097f658 fix for new board db
+e992034 change MAC esp23 and Board
+2003813 ota
+bd41ceb update
+d8d9cc1 ota
+cecbc77 ota
+e25919b Add files via upload
+1bf1bb8 Create .keep
+28d955a OTA
+f7a4c42 ota
+4eda6e5 UPDATE: OTA
+bf34c3d Add redirect to latest SmartFarmIoT release
+a4eb5b5 Merge pull request #16 from natpakanchamp/Led
+aa81156 Lastets
+4ea3b16 idontknow
+3623ef7 UPDATE: more BAR to Node A
+55ca7a5 update arduino code
+775030a Merge pull request #15 from natpakanchamp/master
+8bfd779 UPDATE: push NodeA to folder
+a87adc7 Prob Finish
+62b80e1 UPDATE: fix wifi and dashboard 12:50
+4a3fc1c OOP to Node A
+2887d1f Merge pull request #14 from natpakanchamp/master
+5c61320 update: IPAddress mqtt_broker_ip — IP fallback เวลา DNS พัง
+a8c9bb7 Pre-release
+1045497 THIS IS MAGIC
+bb509ce FIX: channel Node A
+36276a5 FIX: channel esp32 node B
+c3fa6e2 I don't know
+6bc4303 update to static
+9f1eb21 update to static
+96230da update to static
+150f414 ...
+c8f9f0f UODATE
+9627a75 UPDATE: RESCAN
+4480253 Dynamic Node A
+b2539d4 UPDATE: Dynamic Channel
+b7df587 changed channel to 9
+a4f3bdc WIP on UI
+36e607e uodate
+cae2e1e UPDATE: return readLuxSafe()
+9a84bae UPDATE: ...
+c1efefc UPDATE: 4Soil
+1d6bd62 UPDATE: 4soil
+d08ee98 I dont what it changed
+d9316a1 UPDATE: add topic light
+7867fe8 UPDATE: Seperate exacly part
+fc31633 update msgType
+57f4fd8 update patch MsgType
+994cc14 UPDATE
+3378e77 UPDATE
+baf7ed5 UPDATE
+d811340 update
+281e882 UPDATE: init MAC Address
+3c5b35f Update Node A
+dbe7ec4 update Node B
+2b4f7c8 UPDATE
+a650b91 UPDATE 1.0
+f106bed Merge pull request #13 from natpakanchamp/test
+f205f10 UPDATE
+33d06ff ERROR wait for fix
+6cfcc36 Source
+70e0c5c Merge pull request #12 from natpakanchamp/test
+eb494f7 UPDATE TFT ROTATE
+d6c95ad Merge pull request #11 from natpakanchamp/test
+100572d add User_Setup.h
+0c668da Merge pull request #10 from natpakanchamp/test
+4465e03 NEW UPDATE
+e825bfb Merge pull request #9 from natpakanchamp/test
+a7bba17 UPDATE LASTET
+a264c4b Create doc
+cb45088 Create SmartFarmIoTv3.ino
+6bc28be Create SmartFarmIoTv2.ino
+f1912a7 Merge pull request #8 from natpakanchamp/champxxx
+0ba8d0f UPDATE
+499473e Merge pull request #7 from natpakanchamp/test
+d6dcd5e FIXED NON-SINGNAL TFT
+a1f269c Merge pull request #6 from natpakanchamp/dashboard
+10f2dc1 dashboard fixed
+2bbd251 Merge pull request #5 from natpakanchamp/feature/TFT
+a7079ba UPDATE_TFT2.0
+15db708 Try to connect TFT
+64e788d Merge pull request #4 from natpakanchamp/feature/Mode
+5cb8b8e UPDATE_MQTT
+f56304e Merge pull request #3 from natpakanchamp/feature/valve_main
+25c2d74 Update ManualMode
+83f19d1 Create README.md
+7d209d0 Merge pull request #2 from natpakanchamp/feature/valve_main
+42ae685 UPDATE_VALVE_MAIN
+a04db14 UPDATE
+d1f7698 update soil&waterSystem
+0481ab6 initail code
+```
+
+</details>
+
+---
+
 > **หมายเหตุ:** Repository นี้ถูก Duplicate มาจาก repository ต้นฉบับโดยมีการใช้ **Claude AI** ช่วยในการแยกข้อมูลที่เป็นความลับ (WiFi credentials, API tokens, MAC addresses, server endpoints) ออกเป็นไฟล์ `secrets.h` ที่ไม่ถูก commit ขึ้น Git เพื่อปกป้องข้อมูลที่เป็นความลับและไม่สามารถเผยแพร่ได้
