@@ -103,104 +103,104 @@ SmartFarmIoTForDuplicated/
 <summary>คลิกเพื่อดู commit history ทั้งหมด (85 commits)</summary>
 
 ```
-add0eb9 OTA reduce gain
-f4ecdb8 Merge pull request #18 from natpakanchamp/testOTA
-6752037 this is final versiongit add .(hope to be)
-ef11429 last
-1e0a043 changed reason
-f52784d Merge pull request #17 from natpakanchamp/testOTA
-097f658 fix for new board db
-e992034 change MAC esp23 and Board
-2003813 ota
-bd41ceb update
-d8d9cc1 ota
-cecbc77 ota
-e25919b Add files via upload
-1bf1bb8 Create .keep
-28d955a OTA
-f7a4c42 ota
-4eda6e5 UPDATE: OTA
-bf34c3d Add redirect to latest SmartFarmIoT release
-a4eb5b5 Merge pull request #16 from natpakanchamp/Led
-aa81156 Lastets
-4ea3b16 idontknow
-3623ef7 UPDATE: more BAR to Node A
-55ca7a5 update arduino code
-775030a Merge pull request #15 from natpakanchamp/master
-8bfd779 UPDATE: push NodeA to folder
-a87adc7 Prob Finish
-62b80e1 UPDATE: fix wifi and dashboard 12:50
-4a3fc1c OOP to Node A
-2887d1f Merge pull request #14 from natpakanchamp/master
-5c61320 update: IPAddress mqtt_broker_ip — IP fallback เวลา DNS พัง
-a8c9bb7 Pre-release
-1045497 THIS IS MAGIC
-bb509ce FIX: channel Node A
-36276a5 FIX: channel esp32 node B
-c3fa6e2 I don't know
-6bc4303 update to static
-9f1eb21 update to static
-96230da update to static
-150f414 ...
-c8f9f0f UODATE
-9627a75 UPDATE: RESCAN
-4480253 Dynamic Node A
-b2539d4 UPDATE: Dynamic Channel
-b7df587 changed channel to 9
-a4f3bdc WIP on UI
-36e607e uodate
-cae2e1e UPDATE: return readLuxSafe()
-9a84bae UPDATE: ...
-c1efefc UPDATE: 4Soil
-1d6bd62 UPDATE: 4soil
-d08ee98 I dont what it changed
-d9316a1 UPDATE: add topic light
-7867fe8 UPDATE: Seperate exacly part
-fc31633 update msgType
-57f4fd8 update patch MsgType
-994cc14 UPDATE
-3378e77 UPDATE
-baf7ed5 UPDATE
-d811340 update
-281e882 UPDATE: init MAC Address
-3c5b35f Update Node A
-dbe7ec4 update Node B
-2b4f7c8 UPDATE
-a650b91 UPDATE 1.0
-f106bed Merge pull request #13 from natpakanchamp/test
-f205f10 UPDATE
-33d06ff ERROR wait for fix
-6cfcc36 Source
-70e0c5c Merge pull request #12 from natpakanchamp/test
-eb494f7 UPDATE TFT ROTATE
-d6c95ad Merge pull request #11 from natpakanchamp/test
-100572d add User_Setup.h
-0c668da Merge pull request #10 from natpakanchamp/test
-4465e03 NEW UPDATE
-e825bfb Merge pull request #9 from natpakanchamp/test
-a7bba17 UPDATE LASTET
-a264c4b Create doc
-cb45088 Create SmartFarmIoTv3.ino
-6bc28be Create SmartFarmIoTv2.ino
-f1912a7 Merge pull request #8 from natpakanchamp/champxxx
-0ba8d0f UPDATE
-499473e Merge pull request #7 from natpakanchamp/test
-d6dcd5e FIXED NON-SINGNAL TFT
-a1f269c Merge pull request #6 from natpakanchamp/dashboard
-10f2dc1 dashboard fixed
-2bbd251 Merge pull request #5 from natpakanchamp/feature/TFT
-a7079ba UPDATE_TFT2.0
-15db708 Try to connect TFT
-64e788d Merge pull request #4 from natpakanchamp/feature/Mode
-5cb8b8e UPDATE_MQTT
-f56304e Merge pull request #3 from natpakanchamp/feature/valve_main
-25c2d74 Update ManualMode
-83f19d1 Create README.md
-7d209d0 Merge pull request #2 from natpakanchamp/feature/valve_main
-42ae685 UPDATE_VALVE_MAIN
-a04db14 UPDATE
-d1f7698 update soil&waterSystem
-0481ab6 initail code
+add0eb9 2026-03-12 OTA reduce gain
+f4ecdb8 2026-03-12 Merge pull request #18 from natpakanchamp/testOTA
+6752037 2026-03-12 this is final versiongit add .(hope to be)
+ef11429 2026-03-11 last
+1e0a043 2026-03-05 changed reason
+f52784d 2026-03-04 Merge pull request #17 from natpakanchamp/testOTA
+097f658 2026-03-04 fix for new board db
+e992034 2026-03-04 change MAC esp23 and Board
+2003813 2026-03-01 ota
+bd41ceb 2026-03-01 update
+d8d9cc1 2026-03-01 ota
+cecbc77 2026-03-01 ota
+e25919b 2026-03-01 Add files via upload
+1bf1bb8 2026-03-01 Create .keep
+28d955a 2026-03-01 OTA
+f7a4c42 2026-03-01 ota
+4eda6e5 2026-03-01 UPDATE: OTA
+bf34c3d 2026-03-01 Add redirect to latest SmartFarmIoT release
+a4eb5b5 2026-03-01 Merge pull request #16 from natpakanchamp/Led
+aa81156 2026-03-01 Lastets
+4ea3b16 2026-03-01 idontknow
+3623ef7 2026-02-28 UPDATE: more BAR to Node A
+55ca7a5 2026-02-28 update arduino code
+775030a 2026-02-26 Merge pull request #15 from natpakanchamp/master
+8bfd779 2026-02-25 UPDATE: push NodeA to folder
+a87adc7 2026-02-25 Prob Finish
+62b80e1 2026-02-24 UPDATE: fix wifi and dashboard 12:50
+4a3fc1c 2026-02-23 OOP to Node A
+2887d1f 2026-02-23 Merge pull request #14 from natpakanchamp/master
+5c61320 2026-02-23 update: IPAddress mqtt_broker_ip — IP fallback
+a8c9bb7 2026-02-18 Pre-release
+1045497 2026-02-18 THIS IS MAGIC
+bb509ce 2026-02-18 FIX: channel Node A
+36276a5 2026-02-18 FIX: channel esp32 node B
+c3fa6e2 2026-02-18 I don't know
+6bc4303 2026-02-18 update to static
+9f1eb21 2026-02-18 update to static
+96230da 2026-02-18 update to static
+150f414 2026-02-18 ...
+c8f9f0f 2026-02-18 UODATE
+9627a75 2026-02-18 UPDATE: RESCAN
+4480253 2026-02-18 Dynamic Node A
+b2539d4 2026-02-18 UPDATE: Dynamic Channel
+b7df587 2026-02-18 changed channel to 9
+a4f3bdc 2026-02-18 WIP on UI
+36e607e 2026-02-17 uodate
+cae2e1e 2026-02-17 UPDATE: return readLuxSafe()
+9a84bae 2026-02-17 UPDATE: ...
+c1efefc 2026-02-17 UPDATE: 4Soil
+1d6bd62 2026-02-17 UPDATE: 4soil
+d08ee98 2026-02-17 I dont what it changed
+d9316a1 2026-02-17 UPDATE: add topic light
+7867fe8 2026-02-17 UPDATE: Seperate exacly part
+fc31633 2026-02-17 update msgType
+57f4fd8 2026-02-17 update patch MsgType
+994cc14 2026-02-17 UPDATE
+3378e77 2026-02-17 UPDATE
+baf7ed5 2026-02-17 UPDATE
+d811340 2026-02-17 update
+281e882 2026-02-17 UPDATE: init MAC Address
+3c5b35f 2026-02-17 Update Node A
+dbe7ec4 2026-02-17 update Node B
+2b4f7c8 2026-02-12 UPDATE
+a650b91 2026-02-12 UPDATE 1.0
+f106bed 2026-02-11 Merge pull request #13 from natpakanchamp/test
+f205f10 2026-02-11 UPDATE
+33d06ff 2026-02-11 ERROR wait for fix
+6cfcc36 2026-02-11 Source
+70e0c5c 2026-02-11 Merge pull request #12 from natpakanchamp/test
+eb494f7 2026-02-11 UPDATE TFT ROTATE
+d6c95ad 2026-02-10 Merge pull request #11 from natpakanchamp/test
+100572d 2026-02-10 add User_Setup.h
+0c668da 2026-02-10 Merge pull request #10 from natpakanchamp/test
+4465e03 2026-02-10 NEW UPDATE
+e825bfb 2026-02-10 Merge pull request #9 from natpakanchamp/test
+a7bba17 2026-02-10 UPDATE LASTET
+a264c4b 2026-02-09 Create doc
+cb45088 2026-02-09 Create SmartFarmIoTv3.ino
+6bc28be 2026-02-09 Create SmartFarmIoTv2.ino
+f1912a7 2026-02-09 Merge pull request #8 from natpakanchamp/champxxx
+0ba8d0f 2026-02-06 UPDATE
+499473e 2026-02-06 Merge pull request #7 from natpakanchamp/test
+d6dcd5e 2026-02-06 FIXED NON-SINGNAL TFT
+a1f269c 2026-02-05 Merge pull request #6 from natpakanchamp/dashboard
+10f2dc1 2026-02-05 dashboard fixed
+2bbd251 2026-02-05 Merge pull request #5 from natpakanchamp/feature/TFT
+a7079ba 2026-02-05 UPDATE_TFT2.0
+15db708 2026-02-05 Try to connect TFT
+64e788d 2026-02-05 Merge pull request #4 from natpakanchamp/feature/Mode
+5cb8b8e 2026-02-05 UPDATE_MQTT
+f56304e 2026-02-05 Merge pull request #3 from natpakanchamp/feature/valve_main
+25c2d74 2026-02-05 Update ManualMode
+83f19d1 2026-02-05 Create README.md
+7d209d0 2026-02-04 Merge pull request #2 from natpakanchamp/feature/valve_main
+42ae685 2026-02-04 UPDATE_VALVE_MAIN
+a04db14 2026-02-04 UPDATE
+d1f7698 2026-02-04 update soil&waterSystem
+0481ab6 2026-02-03 initail code
 ```
 
 </details>
