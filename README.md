@@ -1,6 +1,6 @@
 # SmartFarmIoT
 
-Repository นี้สร้างขึ้นมาเพื่อส่งงานรายวิชา **261214 + 215 Microprocessor and Interfacing + Lab** โดยเป็นระบบ Smart Farm อัตโนมัติที่ใช้ ESP32 ควบคุมการให้น้ำและแสงสำหรับการปลูกพืชในโรงเรือน
+Repository นี้สร้างขึ้นมาเพื่อส่งงานรายวิชา **261214 + 215 Microprocessor and Interfacing + Lab, Computer Engineering, Chiang Mai University ** โดยเป็นระบบ Smart Farm อัตโนมัติที่ใช้ ESP32 ควบคุมการให้น้ำและแสงสำหรับการปลูกพืชในโรงเรือน
 
 ---
 
