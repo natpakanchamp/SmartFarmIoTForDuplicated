@@ -1,0 +1,9 @@
+# Arduino ignore
+*.hex
+*.elf
+*.bin
+build/
+.DS_Store
+
+# Secrets - DO NOT COMMIT
+secrets.h
